@@ -8,5 +8,4 @@
 //   return 0;
 // }
 
-// add comments for each code
-// start with a beter language
+// code for showing the user input
