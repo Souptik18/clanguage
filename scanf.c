@@ -7,5 +7,3 @@
 //   printf("%d", test);
 //   return 0;
 // }
-
-// code for showing the user input
